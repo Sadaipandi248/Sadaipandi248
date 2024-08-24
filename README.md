@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sadaipandi</h1>
 <h3 align="center">A passionate Full Stack developer(MERN) from India</h3>
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently working **.Net Developer**
 
 - 👨‍💻 Portfolio project [https://sadaipandi248.github.io/my-portfolio/](https://sadaipandi248.github.io/my-portfolio/)
 
 - 👨‍💻 Bank application using reactjs [https://funny-griffin-a8c3a6.netlify.app/](https://funny-griffin-a8c3a6.netlify.app/)
 
-- 💬 Ask me about **react,node,mongoDB,HTML,CSS,javascript**
+- 💬 Ask me about **react,node,mongoDB,HTML,CSS,javascript,c#**
 
 - 📫 How to reach me **sadaipandi248@gmail.com**
 
